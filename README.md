@@ -1,0 +1,1 @@
+Proyecto final en curso de Data Analytics en Coderhouse. Búsqueda de datos en datasets, limpieza y utilización de datos relevante. Presentación de los datos en Power BI con un objetivo, en este caso medir si los equipos que juegan de local tienen mejor desempeño o es un "mito" del deporte.
